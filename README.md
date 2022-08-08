@@ -11,7 +11,18 @@ Stats Cat🐈 is a CLI tool to get statistics of your all git repositories.
 
 ![example](docs/example.gif)
 
+## Installation
+
+You need to confirm you have configured **Golang environment** beforce installing Stats Cat.
+
+Then just run the following command:
+
+```bash
+go install github.com/z1cheng/statscat@latest
+```
+
 ## Usage
+
 ```
 Usage:
   statscat [-d dir] [-a author] [--since since] 
