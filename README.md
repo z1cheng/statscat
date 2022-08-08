@@ -34,7 +34,7 @@ Examples:
 
 Flags:
   -a, --author string   author name to be calculated, default is all authors
-  -d, --dir string      directory to be calculated, recuse into subdirectories, default is current directory (default ".")
+  -d, --dir string      directory to be calculated, statscat will search recursively, default is current directory (default ".")
   -h, --help            help for statscat
       --since string    show stats more recent than a specific date
 ```

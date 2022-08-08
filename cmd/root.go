@@ -45,7 +45,7 @@ var RootCmd = &cobra.Command{
 }
 
 func init() {
-	RootCmd.Flags().StringVarP(&rootDir, "dir", "d", ".", "directory to be calculated, recuse into subdirectories, default is current directory")
+	RootCmd.Flags().StringVarP(&rootDir, "dir", "d", ".", "directory to be calculated, statscat will search recursively, default is current directory")
 	RootCmd.Flags().StringVarP(&author, "author", "a", "", "author name to be calculated, default is all authors")
 	RootCmd.Flags().StringVar(&since, "since", "", "show stats more recent than a specific date")
 }
