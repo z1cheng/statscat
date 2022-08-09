@@ -1,9 +1,9 @@
 package stats
 
 import (
-	"math/rand"
+    "math/rand"
 
-	"github.com/pterm/pterm"
+    "github.com/pterm/pterm"
 )
 
 func NewInfoSpinner(msg string) *pterm.SpinnerPrinter {
