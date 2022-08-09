@@ -26,7 +26,7 @@ go install github.com/z1cheng/statscat@latest
 ```
 Usage:
   statscat [-d dir] [-a author] [--since since] 
-
+statscat -d ~/Public/projects -a z1cheng --since 1.year
 Examples:
 
     statscat  # get the statistics of all repositories in current directory
