@@ -22,14 +22,14 @@ THE SOFTWARE.
 package main
 
 import (
-    "os"
+	"os"
 
-    "github.com/z1cheng/statscat/cmd"
+	"github.com/z1cheng/statscat/cmd"
 )
 
 func main() {
-    err := cmd.RootCmd.Execute()
-    if err != nil {
-        os.Exit(1)
-    }
+	err := cmd.RootCmd.Execute()
+	if err != nil {
+		os.Exit(1)
+	}
 }
