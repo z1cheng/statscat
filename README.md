@@ -4,7 +4,7 @@
 
 Git statistics but with a cat
 
-[![StatsCat](https://img.shields.io/badge/Repo-Stats%20Cat%20%F0%9F%90%88-yellow)](https://github.com/z1cheng/statscat) [![Language:Go](https://img.shields.io/static/v1?label=Language&message=Go&color=blue&style=flat-square)](https://go.dev) [![License:MIT](https://img.shields.io/static/v1?label=License&message=MIT&color=blue&style=flat-square)](https://opensource.org/licenses/MIT) 
+[![StatsCat](https://img.shields.io/badge/Repo-Stats%20Cat%20%F0%9F%90%88-yellow)](https://github.com/z1cheng/statscat) [![Language:Go](https://img.shields.io/static/v1?label=Language&message=Go&color=blue&style=flat-square)](https://go.dev) [![Go Report Card](https://goreportcard.com/badge/github.com/z1cheng/statscat)](https://goreportcard.com/report/github.com/z1cheng/statscat) [![License:MIT](https://img.shields.io/static/v1?label=License&message=MIT&color=blue&style=flat-square)](https://opensource.org/licenses/MIT)
 </div>
 
 Stats Cat🐈 is a CLI tool to get statistics of your all git repositories.
